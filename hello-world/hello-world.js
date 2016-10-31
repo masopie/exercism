@@ -7,7 +7,7 @@
 var HelloWorld = function() {};
 
 HelloWorld.prototype.hello = function(input) {
-  return("Hello, World fasdfasdfdasfsd");
+  return("Hello, Worldasdfasdfasdf");
 };
 
 module.exports = HelloWorld;
